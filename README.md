@@ -1,5 +1,5 @@
 # TPO - Diseño y Análisis de Algoritmos 
-Lunes Turnop Tarde
+Lunes Turno Tarde
 
 ## Integrantes
 * Iganacio Opatich
